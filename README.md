@@ -1,7 +1,3 @@
-
-
-A deep learning application that detects brain tumors in MRI scans using MobileNetV2 and Streamlit.
-
 ## Overview
 
 This project uses a pre-trained MobileNetV2 model fine-tuned on brain MRI images to classify whether a scan contains a tumor or not. It provides an interactive web interface for uploading and analyzing MRI images.
